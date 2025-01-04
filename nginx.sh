@@ -19,7 +19,7 @@ PHP_VERSION=$(find /run/php/ -name "php[0-9]*.sock")
 sed -i -e "s#/run/php/php8\.1-fpm\.sock#$PHP_VERSION#g" $TEMP_DIR/default.conf
 
 # Copy html folder into Nginx root folder
-cp -R $TEMP_DIR/* /var/www/html/*
+cp -R $TEMP_DIR/html/* /var/www/html/
 sleep 2
 
 # Enable and start nginx
