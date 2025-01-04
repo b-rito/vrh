@@ -9,7 +9,7 @@ Can be useful in identifying that URL Rewrites or Request Headers have been appl
 To setup a default website with Nginx on Ubuntu, run command:
 
 ```bash
-sudo /usr/bin/env bash -c "$(curl -fsSL https://gist.githubusercontent.com/b-rito/fa8b32e7143f9f7919fd2226e4319c05/raw/dfb201fc432a2d68d5e4942311c4e5cdb3b4906b/setup.sh)"
+sudo /usr/bin/env bash -c "$(curl -fsSL https://gist.githubusercontent.com/b-rito/fa8b32e7143f9f7919fd2226e4319c05/raw/87d27636c2649b7c68bb1bc81cd47b71cc1a4535/setup.sh)"
 ```
 
 > [!Note]  
