@@ -31,7 +31,7 @@ function makeHyphens($length) {
 print "
             \033[0;34m_
 \033[0;31m__   __\033[0;32m_ __\033[0;34m| |__    \033[0;0m View Request Headers
-\033[0;31m\ \ / /\033[0;32m  __|\033[0;34m _  \   \033[0;0m https://github.com/b-rito/view-request-headers
+\033[0;31m\ \ / /\033[0;32m  __|\033[0;34m _  \   \033[0;0m https://github.com/b-rito/vrh
 \033[0;31m \ V /\033[0;32m| |  \033[0;34m| | | |
 \033[0;31m  \_/ \033[0;32m|_|  \033[0;34m|_| |_|\033[0;0m\n\n
 ";

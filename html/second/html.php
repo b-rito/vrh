@@ -12,7 +12,7 @@
         <code>
 <span style="color:#55F">            _</span>
 <span style="color:#F55">__   __</span><span style="color:#5F5">_ __</span><span style="color:#55F">| |__         </span><span style="color:#FFF">View Request Headers</span>
-<span style="color:#F55">\ \ / /</span><span style="color:#5F5">  __|</span><span style="color:#55F"> _  \        </span><span style="color:#55F"><a href="https://github.com/b-rito/View-Request-Headers">https://github.com/b-rito/View-Request-Headers</a></span>
+<span style="color:#F55">\ \ / /</span><span style="color:#5F5">  __|</span><span style="color:#55F"> _  \        </span><span style="color:#55F"><a href="https://github.com/b-rito/vrh">https://github.com/b-rito/vrh</a></span>
 <span style="color:#F55"> \ V /</span><span style="color:#5F5">| |  </span><span style="color:#55F">| | | |</span>
 <span style="color:#F55">  \_/ </span><span style="color:#5F5">|_|  </span><span style="color:#55F">|_| |_|</span>
 
